@@ -1,0 +1,33 @@
+#column names
+
+SUBDIVISION YEAR JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC ANNUAL JF MAM JJAS OND
+
+🌦️ Meaning of JF, MAM, JJAS, OND
+
+IMD divides the year into four meteorological seasons:
+
+1️⃣ JF = January + February (Winter Season)
+
+It represents the total rainfall in Jan + Feb
+
+IMD calls this Winter Rainfall
+
+2️⃣ MAM = March + April + May (Pre-Monsoon Season)
+
+Represents summer / pre-monsoon rainfall
+
+Important for drought analysis and early agriculture patterns
+
+3️⃣ JJAS = June + July + August + September (Southwest Monsoon Season)
+
+This is the main monsoon period
+
+70–80% of India’s annual rainfall happens in JJAS
+
+Most important column for rainfall dashboards
+
+4️⃣ OND = October + November + December (Post-Monsoon / Northeast Monsoon Season)
+
+Significant for Tamil Nadu & South India
+
+Called Northeast Monsoon Rainfall
